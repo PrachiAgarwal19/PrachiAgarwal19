@@ -10,10 +10,12 @@
 <a href="mailto:agarwalprachi2901@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/mail.png" alt="agarwal-prachi" height="50" width="50" /></a>
 </p>
 <br>
+
+
+![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrachiAgarwal19&theme=algolia&show_icons=true)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachiagarwal19&theme=algolia&show_icons=true&locale=en&layout=compact" alt="prachiagarwal19" /></p>
 <br>
 
-![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrachiAgarwal19&theme=algolia&show_icons=true)
 
 
 <h3 align="left">Languages and Tools:</h3>
