@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/agarwalprachi_?style=social)](https://twitter.com/agarwalprachi_) 
 [![GitHub](https://img.shields.io/github/followers/yogita10?style=social)](https://github.com/yogita10)
 
-<p> Tech Enthusiast | Web Developer | Student </p>
+<h3> Tech Enthusiast | Web Developer | Student </hr>
 
 <h3 align="left">Would love to connect! Reach me at:</h3>
 <p align="left">
