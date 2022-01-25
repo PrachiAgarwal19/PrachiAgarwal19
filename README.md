@@ -9,9 +9,9 @@
 <a href="https://linkedin.com/in/agarwal-prachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agarwal-prachi" height="30" width="40" /></a>
 <a href="mailto:agarwalprachi2901@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/mail.png" alt="agarwal-prachi" height="50" width="50" /></a>
 </p>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachiagarwal19&theme=algolia&show_icons=true&locale=en&layout=compact" alt="prachiagarwal19" /></p>
-
+<br>
 
 ![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrachiAgarwal19&theme=algolia&show_icons=true)
 
