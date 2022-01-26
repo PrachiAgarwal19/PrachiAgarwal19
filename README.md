@@ -1,7 +1,7 @@
 <h1>Hey there! <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" width="25px"> I'm Prachi Agarwal.</h1>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/agarwalprachi_?style=social)](https://twitter.com/agarwalprachi_) 
-[![GitHub](https://img.shields.io/github/followers/yogita10?style=social)](https://github.com/yogita10)
+[![GitHub](https://img.shields.io/github/followers/PrachiAgarwal19?style=social)](https://github.com/PrachiAgarwal19)
 
 <h3> Tech Enthusiast | Web Developer | Student </hr>
 
